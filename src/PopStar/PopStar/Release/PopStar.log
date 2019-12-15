@@ -1,0 +1,35 @@
+﻿生成启动时间为 2019/10/30 21:40:01。
+     1>项目“D:\CPPtmp\PopStar\PopStar\PopStar.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\PopStar.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\PopStar.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt displayModule.cpp GameLogic.cpp GameMenu.cpp main.cpp Star.cpp
+         displayModule.cpp
+         GameLogic.cpp
+         GameMenu.cpp
+         main.cpp
+         Star.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CPPtmp\PopStar\Release\PopStar.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\PopStar.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\CPPtmp\PopStar\Release\PopStar.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CPPtmp\PopStar\Release\PopStar.lib" /MACHINE:X86 Release\displayModule.obj
+         Release\GameLogic.obj
+         Release\GameMenu.obj
+         Release\main.obj
+         Release\Star.obj
+         EasyXa.lib
+         EasyXw.lib
+         WINMM.LIB
+         正在生成代码
+         已完成代码的生成
+         PopStar.vcxproj -> D:\CPPtmp\PopStar\Release\PopStar.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\CPPtmp\PopStar\Release\PopStar.exe;#1" /manifest Release\PopStar.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\PopStar.unsuccessfulbuild”。
+         正在对“Release\PopStar.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\CPPtmp\PopStar\PopStar\PopStar.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.14
